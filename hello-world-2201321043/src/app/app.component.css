@@ -1,0 +1,10 @@
+div{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+mat-expansion-panel{
+    padding: 45px;
+}
